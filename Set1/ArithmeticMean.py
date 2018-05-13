@@ -1,4 +1,4 @@
-#generate 10 numbers from <0, 20> and print Arithetic mean
+# generate 10 numbers from <0, 20> and print Arithmetic mean
 
 import random
 
